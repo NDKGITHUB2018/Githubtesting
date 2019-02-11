@@ -6,3 +6,6 @@ First change
 for other branch
 
 Dev merge purpose
+
+To test merge conflicts
+
