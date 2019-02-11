@@ -9,3 +9,5 @@ Dev merge purpose
 
 To test merge conflicts
 
+To test GIT diff tool
+
