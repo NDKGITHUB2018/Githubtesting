@@ -1,3 +1,5 @@
 To test multiple files conflict with merge tool
 
 multiple files conflict
+
+test
