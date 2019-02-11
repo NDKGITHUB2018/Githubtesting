@@ -13,3 +13,5 @@ To test GIT diff tool
 
 Local change conflicting with Remote change
 
+Merge checking
+
